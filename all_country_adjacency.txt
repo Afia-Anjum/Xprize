@@ -1,0 +1,183 @@
+BEN	BFA	TGO	NER													
+PNG	IDN															
+AGO	COD	NAM	ZMB													
+KHM	THA	VNM														
+SDN	ERI	SSD	EGY	LBY	TCD	ETH										
+KAZ	TKM	RUS	CHN	UZB	KGZ											
+PRY	BOL	BRA	ARG													
+PRT	ESP															
+SYR	IRQ	JOR	LBN	TUR												
+BHS																
+SLB																
+GRC	BGR	ALB														
+LVA	BLR	EST	RUS	LTU												
+MNG	CHN	RUS														
+IRN	TUR	TKM	AZE	PAK	AFG	IRQ										
+MAR	DZA	MRT	ESP													
+MLI	GIN	BFA	DZA	SEN	NER	CIV	MRT									
+PAN	CRI	COL														
+GTM	BLZ	MEX	SLV	HND												
+GUY	VEN	BRA	SUR													
+IRQ	SYR	JOR	SAU	IRN	TUR	KWT										
+CHL	ARG	BOL	PER													
+LAO	MMR	KHM	CHN	THA	VNM											
+NPL	IND	CHN														
+ARG	CHL	BRA	BOL	PRY	URY											
+SYC																
+TZA	MWI	KEN	MOZ	COD	RWA	BDI	UGA	COM	ZMB							
+UKR	RUS	BLR	POL	SVK	HUN	MDA	ROU									
+BLZ	MEX	GTM														
+GHA	BFA	TGO	CIV													
+ZMB	NAM	BWA	ZWE	AGO	COD	MWI	MOZ	TZA								
+BHR																
+COG	CAF	COD	CMR	GAB												
+IND	MMR	PAK	CHN	BGD	BTN	NPL										
+KGZ	TJK	UZB	CHN	KAZ												
+CAN	USA															
+TUR	GRC	IRN	AZE	BGR	SYR	GEO	IRQ									
+BEL	LUX	FRA	DEU	NLD												
+NAM	ZMB	BWA	AGO	ZAF												
+COM																
+FIN	SWE	RUS	NOR													
+TWN																
+TTO																
+ZAF	MOZ	NAM	BWA	LSO	ZWE	SWZ										
+BMU																
+CAF	COG	TCD	SDN	SSD	CMR	COD										
+GEO	AZE	RUS	TUR													
+JAM																
+PER	BOL	BRA	COL	ECU	CHL											
+TKM	KAZ	IRN	AFG	AZE	UZB											
+DEU	NLD	FRA	DNK	AUT	BEL	CZE	LUX	CHE	POL							
+YEM	OMN	SAU														
+ERI	SDN	ETH														
+PRI																
+FJI																
+HKG	CHN															
+GIN	MLI	LBR	SEN	SLE	CIV											
+USA	MEX	CAN														
+SOM	DJI	ETH	KEN													
+TCD	CAF	LBY	NER	NGA	CMR	SDN										
+ABW																
+MDG																
+THA	KHM	MMR	MYS	LAO												
+LBY	TCD	DZA	NER	EGY	SDN	TUN										
+CRI	PAN	NIC														
+SWE	FIN	NOR														
+VNM	KHM	CHN	LAO													
+MWI	TZA	MOZ	ZMB													
+AND	FRA	ESP														
+POL	CZE	SVK	BLR	DEU	LTU	RUS	UKR									
+VIR																
+BGR	SRB	ROU	GRC	TUR												
+JOR	SYR	IRQ	ISR	SAU	PSE											
+KWT	SAU	IRQ														
+NGA	CMR	BEN	TCD	NER												
+TUN	DZA	LBY														
+HRV	BIH	HUN	SVN	SRB												
+FRO																
+LKA																
+URY	ARG	BRA														
+TLS																
+GBR	IRL															
+ARE	OMN	SAU														
+KEN	SOM	TZA	SSD	ETH	UGA											
+CHE	AUT	FRA	ITA	DEU												
+ESP	PRT	FRA	AND	MAR												
+PSE	ISR	EGY	JOR													
+BRN	MYS															
+DJI	SOM	ETH	ERI													
+LBN	SYR	ISR														
+AZE	IRN	TUR	RUS	GEO												
+CUB																
+LBR	GIN	CIV	SLE													
+VEN	GUY	BRA	COL													
+CZE	POL	AUT	SVK	DEU												
+BFA	BEN	MLI	GHA	TGO	NER	CIV										
+MRT	SEN	MLI	DZA													
+ISR	PSE	EGY	LBN	JOR	SYR											
+SMR	ITA															
+AUS																
+TJK	KGZ	AFG	UZB	CHN												
+EST	RUS	LVA														
+MMR	IND	THA	CHN	BGD	LAO											
+CMR	NGA	GAB	CAF	COG	TCD	GIN										
+CYP																
+MYS	THA	BRN	IDN													
+ISL																
+OMN	YEM	ARE	SAU													
+GAB	CMR	GIN	COG													
+AUT	CHE	CZE	SVK	SVN	HUN	ITA	DEU									
+KOR																
+MOZ	TZA	ZAF	MWI	ZMB	ZWE	SWZ										
+SVK	POL	CZE	AUT	HUN	UKR											
+SLV	HND	GTM														
+MCO	FRA															
+LUX	BEL	FRA	DEU													
+BRA	GUY	ARG	VEN	COL	BOL	FRA	PRY	PER	SUR	URY	VEN					
+GUM																
+DZA	MAR	MLI	LBY	NER	ITA	TUN	MRT									
+SVN	AUT	HUN	ITA	HRV												
+LSO	ZAF															
+TON																
+COL	PAN	VEN	BRA	ECU	PER											
+ECU	COL	PER														
+HUN	AUT	SVK	SVN	SRB	ROU	HRV	UKR									
+SSD	UGA	KEN	ETH	COD	CAF	SDN										
+JPN																
+MDA	ROU	UKR														
+BLR	LVA	POL	RUS	UKR	LTU											
+MUS																
+ALB	RKS	GRC														
+NZL																
+VUT																
+SWZ	ZAF	MOZ														
+SEN	MLI	GIN	GMB	MRT												
+HND	SLV	NIC	GTM													
+ITA	FRA	AUT	SMR	SVN	CHE											
+ETH	SOM	DJI	KEN	ERI	SSD	SDN										
+HTI	DOM															
+AFG	TJK	UZB	CHN	IRN	PAK	TKM										
+BDI	RWA	COD	TZA													
+SGP																
+EGY	SDN	PSE	ISR	LBY												
+SLE	GIN	LBR														
+BOL	PRY	PER	ARG	BRA	CHL											
+RUS	KAZ	UKR	FIN	AZE	EST	CHN	LTU	NOR	BLR	GEO	LVA	MNG	POL	ROU	SWE	TUR
+SAU	YEM	KWT	ARE	OMN	IRQ	JOR	QAT									
+CPV																
+NLD	DEU	BEL														
+PAK	IRN	IND	CHN	AFG												
+RKS	ALB	SRB														
+GMB	SEN															
+CHN	KAZ	IND	HKG	VNM	MMR	RUS	PAK	AFG	BTN	LAO	KGZ	MNG	NPL	TWN	TJK	
+IRL	GBR															
+QAT	SAU															
+FRA	DEU	ESP	ITA	AND	BRA	BEL	LUX	MCO	CHE	SUR						
+LTU	RUS	BEL	POL	LVA												
+SRB	BGR	HUN	ALB	BIH	ROU	HRV	RKS									
+BIH	SRB	HRV														
+BTN	CHN	IND														
+ROU	BGR	HUN	MDA	SRB	UKR											
+TGO	BEN	GHA	BFA													
+NER	BEN	MLI	TCD	LBY	BFA	DZA	NGA									
+PHL																
+CIV	BFA	GHA	GIN	LBR	MLI											
+RWA	BDI	UGA	COD	TZA												
+UZB	KGZ	TJK	AFG	KGZ	TKM											
+BGD	IND	MMR														
+BRB																
+NIC	CRI	HND														
+NOR	FIN	SWE	RUS													
+BWA	ZMB	NAM	ZWE	ZAF												
+COD	AGO	UGA	TZA	SSD	CAF	BDI	COG	RWA	ZMB							
+MAC	CHN															
+DNK	DEU															
+DOM	HTI															
+MEX	BLZ	USA	GTM													
+UGA	RWA	KEN	TZA	SSD	COD											
+ZWE	ZMB	NAM	BWA	ZAF	MOZ											
+SUR	BRA	FRA	GUY													
+GRL																
+DMA																
+IDN	TLS	MYS	PNG													
